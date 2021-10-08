@@ -1,6 +1,6 @@
 ### Hi there, I'm Paritosh Tripathi 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/paritoshtripathi935?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fparitoshtripathi935Kr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paritos72141492?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fparitos72141492Kr&screen_name=codeSTACKr)
 
 
 ## I'm a Student, Machine Learning enthutiast, Developer, and Gamer!!
