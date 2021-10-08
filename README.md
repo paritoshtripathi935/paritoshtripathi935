@@ -1,5 +1,6 @@
 ### Hi there, I'm Paritosh Tripathi 👋
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 [![Twitter Follow](https://img.shields.io/twitter/follow/paritos72141492?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fparitos72141492Kr&screen_name=codeSTACKr)
 
 
