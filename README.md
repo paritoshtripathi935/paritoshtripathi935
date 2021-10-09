@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paritosh Tripathi</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kanhiya_0w0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkanhiya_0w0Kr&screen_name=paritosh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kanhiya_0w0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kanhiya_0w0)
 
 
 ## I'm a Student, Machine Learning enthutiast, Developer, and Gamer!!
