@@ -46,3 +46,31 @@
 [twitter]: https://twitter.com/paritos72141492
 [instagram]: https://www.instagram.com/w2_datascience/?hl=en
 [linkedin]: https://www.linkedin.com/in/paritosh-tripathi-b83aa91bb/
+
+<table>
+<tr>
+  <td align="center">
+  <p align="center">
+  <a href="https://github.com/paritoshtripathi935">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&show_icons=true&locale=en&theme=radical"/>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://github.com/paritoshtripathi935">
+    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paritoshtripathi935&show_icons=true&locale=en&layout=compact&theme=radical" />
+  </a>
+  </td>
+</p>
+</details>
+</table>
+
+<br>
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paritoshtripathi935&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=paritoshtripathi935&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
