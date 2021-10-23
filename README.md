@@ -67,9 +67,7 @@
 <br>
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paritoshtripathi935&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
