@@ -9,7 +9,7 @@
 - 🔭 I just launched my Startup: [Savo]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Programmers 
-- 🥅 2021 Goals: Learn web development
+- 🥅 2022 Goals: Learn web development
 - ⚡ Fun fact: I love to play games a lot
 
 ### Connect with me:
