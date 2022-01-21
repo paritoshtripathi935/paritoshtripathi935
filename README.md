@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kanhiya_0w0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kanhiya_0w0)
 
 
-## I'm a Student, Machine Learning enthutiast, Developer, and Gamer!!
+## I'm a Student, Data Science enthutiast, Developer, and Gamer!!
 
 - 🔭 I just launched my Startup: [Savo]!
 - 🌱 I’m currently learning everything 🤣
