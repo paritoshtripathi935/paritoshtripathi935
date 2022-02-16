@@ -38,12 +38,7 @@
 </a> <a href="https://django.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 </a> <a href="https://django.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Paritosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&show_icons=true&hide_border=true" />
-
-</details>
 
 [Startup]: https://paritoshtripathi935.github.io/Savo/
 [twitter]: https://twitter.com/paritos72141492
