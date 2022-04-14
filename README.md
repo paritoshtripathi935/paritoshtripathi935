@@ -55,7 +55,8 @@
   </td>
   <td align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paritoshtripathi935&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paritoshtripathi935&show_icons=true&locale=en&layout=compact&theme=radical" />
+    
   </a>
   </td>
 </p>
