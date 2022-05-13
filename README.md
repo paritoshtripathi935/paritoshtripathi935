@@ -6,7 +6,7 @@
 
 ## I'm a Student, Data Science enthutiast, Developer, and Gamer!!
 
-- 🔭 I just launched my Startup: [Savo]!
+- 🔭 I am Building: Savo
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Programmers 
 - 🥅 2022 Goals: Learn web development
