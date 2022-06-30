@@ -71,7 +71,7 @@
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=paritoshtripathi935&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paritoshtripathi935)](https://github.com/anuraghazra/github-readme-stats)
 <hr></hr>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
