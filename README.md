@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kanhiya_0w0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kanhiya_0w0)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratishthaa&label=Profile%20views&color=0e75b6&style=flat" alt="pratishthaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paritoshtripathi935&label=Profile%20views&color=0e75b6&style=flat" alt="pratishthaa" /> </p>
 
 ## I'm a Student, Aspiring Data Science, Developer, and Gamer!!
 
