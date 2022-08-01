@@ -76,7 +76,7 @@
 <br>
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi)](https://git.io/streak-stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi"/>
   </a>
 </p>
 
