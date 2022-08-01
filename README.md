@@ -50,7 +50,7 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
   </a>
   </td>
   <td align="center">
@@ -68,7 +68,7 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi"/>
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi"/>
   </a>
   </td>
   <td align="center">
@@ -88,11 +88,5 @@
 <br>
 
 
-<hr></hr>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="850"/>
-
-</div>
 
         
