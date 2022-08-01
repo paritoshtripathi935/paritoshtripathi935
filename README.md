@@ -55,7 +55,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paritoshtripathi935&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paritoshtripathi935&show_icons=true&locale=en&layout=compact&theme=radical" />
     
   </a>
   </td>
@@ -75,7 +75,7 @@
 <hr></hr>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="900"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="850"/>
 
 </div>
 
