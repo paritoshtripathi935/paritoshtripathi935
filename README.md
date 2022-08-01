@@ -70,7 +70,17 @@
   </a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=paritoshtripathi935&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=paritoshtripathi935&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> 
+<br>
+
+<br>
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi)](https://git.io/streak-stats"/>
+  </a>
+</p>
+
+<br>
 
 <hr></hr>
 
