@@ -68,12 +68,12 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi"/>
+    <img align="center" height="200px" width="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=paritoshtripathi935&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD" />
+    <img align="center" height="200px" width="200" src="https://github-readme-streak-stats.herokuapp.com?user=paritoshtripathi935&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD" />
     
   </a>
   </td>
