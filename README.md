@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kanhiya_0w0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kanhiya_0w0)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritoshtripathi935&label=Profile%20views&color=0e75b6&style=flat" alt="pratishthaa" /> </p>
 
-## I'm a Student, Aspiring Data Science, Developer, and Gamer!!
+## I'm a Student, Aspiring Data Scientist, Developer, and Gamer!!
 
 - 🔭 I am Building: Savo
 - 🌱 I’m currently learning everything 🤣
