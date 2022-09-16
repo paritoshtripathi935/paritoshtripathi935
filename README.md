@@ -50,7 +50,7 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img align="center" height="400px" width="600"src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
+    <img align="center" height="400px" width="800"src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
   </td>
 </p>
 </details>
