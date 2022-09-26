@@ -76,14 +76,6 @@
 </p>
 <br>
 
-<br>
-<p align="center">
-<img height="400px" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshtripathi935&langs_count=4"> 
-</p>
-<br>
-
-
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
