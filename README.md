@@ -64,7 +64,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi&langs_count=4"/>
   </a>
   <a href="https://github.com/paritoshtripathi935">
-    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4"> 
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4"> 
   </a>
 </p>
 </details>
