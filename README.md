@@ -61,7 +61,7 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/paritoshtripathi935">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi&api_domain=wakapi.dev&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh Tripathi&api_domain=wakapi.dev&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
   </a>
   <a href="https://github.com/paritoshtripathi935">
     <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4"> 
