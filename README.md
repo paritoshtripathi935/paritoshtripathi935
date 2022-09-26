@@ -64,7 +64,7 @@
     <img align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi&langs_count=4"/>
   </a>
   <a href="https://github.com/paritoshtripathi935">
-    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/username=paritoshtripathi935&layout=compact"> 
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> 
   </a>
 </p>
 </details>
