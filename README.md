@@ -74,8 +74,8 @@
 <br>
 
 <br>
-<p align="center" height="400px" width="800">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=2"> 
+<p align="center">
+<img height="400px" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshtripathi935&langs_count=4"> 
 </p>
 <br>
 
