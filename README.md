@@ -73,6 +73,13 @@
 </p>
 <br>
 
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=2"> 
+</p>
+<br>
+
+
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
