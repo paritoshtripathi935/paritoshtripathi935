@@ -62,10 +62,6 @@
   <p align="center">
   <a href="https://github.com/paritoshtripathi935"> 
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi&layout=compact">
-  </a>
-  <a href="https://github.com/paritoshtripathi935">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshtripathi935&layout=compact&langs_count=4"> 
-  </a>
 </p>
 </details>
 </table>
