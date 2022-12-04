@@ -68,7 +68,7 @@
 
 <br>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=paritoshtripathi935&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> 
+<img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react"> 
 </p>
 <br>
 
