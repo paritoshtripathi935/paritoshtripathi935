@@ -43,4 +43,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tripathiparitosh935&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=dracula"/>
+</p>
