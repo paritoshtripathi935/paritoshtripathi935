@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritoshtripathi935&label=Profile%20views&color=0e75b6&style=flat" alt="paritoshtripathi935" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935" alt="paritoshtripathi935" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kanhiya_0w0" target="blank"><img src="https://img.shields.io/twitter/follow/kanhiya_0w0?logo=twitter&style=for-the-badge" alt="kanhiya_0w0" /></a> </p>
 
 - 🔭 I’m currently working on **Savo**
@@ -21,7 +19,7 @@
 
 - 📫 How to reach me **Tripathiparitosh935@gmail.com**
 
-- 📄 Know about my experiences [https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae](Resume)
+- 📄 Know about my experiences [Resume](https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae)
 
 - ⚡ Fun fact **Humor Op**
 
@@ -44,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&show_icons=true&locale=en" alt="paritoshtripathi935" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paritoshtripathi935&" alt="paritoshtripathi935" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935" alt="paritoshtripathi935" /></a> </p>
