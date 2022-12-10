@@ -1,79 +1,46 @@
 <h1 align="center">Hi 👋, I'm Paritosh Tripathi</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">I'm a Student, Aspiring Data Scientist, Software Engineer</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kanhiya_0w0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kanhiya_0w0)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paritoshtripathi935&label=Profile%20views&color=0e75b6&style=flat" alt="pratishthaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paritoshtripathi935&label=Profile%20views&color=0e75b6&style=flat" alt="paritoshtripathi935" /> </p>
 
-## I'm a Student, Aspiring Data Scientist, Developer, and Gamer!!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935" alt="paritoshtripathi935" /></a> </p>
 
-- 🔭 I am Building: Savo
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Programmers 
-- 🥅 2022 Goals: Learn web development
-- ⚡ Fun fact: I love to play games a lot
+<p align="left"> <a href="https://twitter.com/kanhiya_0w0" target="blank"><img src="https://img.shields.io/twitter/follow/kanhiya_0w0?logo=twitter&style=for-the-badge" alt="kanhiya_0w0" /></a> </p>
 
-### Connect with me:
+- 🔭 I’m currently working on **Savo**
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🌱 I’m currently learning **Django**
 
-<br />
+- 👯 I’m looking to collaborate on **Yamo**
 
+- 🤝 I’m looking for help with **PayBae**
+
+- 👨‍💻 All of my projects are available at [https://github.com/paritoshtripathi935](https://github.com/paritoshtripathi935)
+
+- 💬 Ask me about **Data Science, AWS, Software Enginnering**
+
+- 📫 How to reach me **Tripathiparitosh935@gmail.com**
+
+- 📄 Know about my experiences [https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae](https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae)
+
+- ⚡ Fun fact **Humor Op**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kanhiya_0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanhiya_0w0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paritosh-tripathi-social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paritosh-tripathi-social" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17716873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17716873" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dark_1231" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dark_1231" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tripathiparitos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tripathiparitos1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tripathiparitosh935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tripathiparitosh935" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/tripathiparitosh935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tripathiparitosh935" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-</a> <a href="https://www.mongodb.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a> <a href="https://www.jetbrains.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/>
-</a> <a href="https://www.anaconda.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupter" width="40" height="40"/>
-</a> <a href="https://www.pandas.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
-</a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="jupter" width="40" height="40"/>
-</a> <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-</a> <a href="https://canva.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-</a> <a href="https://django.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-</a> <a href="https://django.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
----
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paritoshtripathi935&show_icons=true&locale=en&layout=compact" alt="paritoshtripathi935" /></p>
 
-[Startup]: https://paritoshtripathi935.github.io/Savo/
-[twitter]: https://twitter.com/paritos72141492
-[instagram]: https://www.instagram.com/w2_datascience/?hl=en
-[linkedin]: https://www.linkedin.com/in/paritosh-tripathi-b83aa91bb/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&show_icons=true&locale=en" alt="paritoshtripathi935" /></p>
 
-<table>
-<tr>
-  <td align="center">
-  <p align="center">
-  <a href="https://github.com/paritoshtripathi935">
-    <img align="center" height="400px" width="800"src="https://github-readme-stats.vercel.app/api?username=paritoshtripathi935&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
-  </td>
-</p>
-</details>
-</table>
-
-<table>
-<tr>
-  <td align="center">
-  <p align="center">
-  <a href="https://github.com/paritoshtripathi935"> 
-    <img align="center" height="400px" width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh_Tripathi&layout=compact">
-</p>
-</details>
-</table>
-
-<br>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react"> 
-</p>
-<br>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
-
-        
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paritoshtripathi935&" alt="paritoshtripathi935" /></p>
