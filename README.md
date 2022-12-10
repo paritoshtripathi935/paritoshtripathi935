@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=dracula"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=react-dark"/>
 </p>
