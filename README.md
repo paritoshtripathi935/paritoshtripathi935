@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Tripathiparitosh935@gmail.com**
 
-- 📄 Know about my experiences [https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae](https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae)
+- 📄 Know about my experiences [https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae](Resume)
 
 - ⚡ Fun fact **Humor Op**
 
