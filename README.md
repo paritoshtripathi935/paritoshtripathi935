@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **PayBae**
 
-- 👨‍💻 All of my projects are available at [https://github.com/paritoshtripathi935](https://github.com/paritoshtripathi935)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/paritoshtripathi935)
 
 - 💬 Ask me about **Data Science, AWS, Software Enginnering**
 
