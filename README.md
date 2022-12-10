@@ -42,3 +42,9 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/paritoshtripathi935"> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Paritosh _Tripathi&api_domain=wakapi.dev&custom_title=Wakapi%20Week%20Stats&layout=compact">
+  </a>
+</p>
