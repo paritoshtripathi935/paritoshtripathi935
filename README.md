@@ -46,3 +46,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=react-dark"/>
 </p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
+</p>
