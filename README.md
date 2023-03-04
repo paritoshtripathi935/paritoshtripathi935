@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Data Science, AWS, Software Enginnering**
 
-- 📫 How to reach me [Email](tripathiparitosh935@gmail.com)
+- 📫 How to reach me [tripathiparitosh935@gmail.com]
 
-- 📄 Know about my experiences [Resume](https://bennettu-my.sharepoint.com/:b:/g/personal/e20cse067_bennett_edu_in/EZ81V9Re3rNLjXtQxxwDvtkB6JW4b6T5LIn4NZwyoulXwg?e=pMIMae)
+- 📄 Know about my experiences [Resume](https://bennettu-my.sharepoint.com/personal/e20cse067_bennett_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe20cse067%5Fbennett%5Fedu%5Fin%2FDocuments%2FResumes%2FMY%5FCV%5FSDE%2Epdf&parent=%2Fpersonal%2Fe20cse067%5Fbennett%5Fedu%5Fin%2FDocuments%2FResumes&ga=1)
 
 - ⚡ Fun fact **Humor Op**
 
