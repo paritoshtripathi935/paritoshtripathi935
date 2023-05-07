@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Enginee .🔭 I’m currently working on Trade Tonic<br>👯 I’m looking to collaborate on Product Matching<br>🌱 I’m currently learning Data Science<br>💬 Ask me about AWS, Python, Data Science
+Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>🔭 I’m currently working on Trade Tonic<br>👯 I’m looking to collaborate on Product Matching<br>🌱 I’m currently learning Data Science<br>💬 Ask me about AWS, Python, Data Science
 
 
 ## 🌐 Socials:
@@ -21,10 +21,6 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Enginee .🔭
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&row=1&column=6&theme=gruvbox&margin-w=25&margin-h=25"/>
-</p>
-
-<p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=react-dark"/>
 </p>
 
@@ -39,9 +35,6 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Enginee .🔭
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=paritoshtripathi935&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
