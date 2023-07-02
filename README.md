@@ -20,13 +20,14 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>
     <img src="https://streak-stats.demolab.com?user=ParitoshTripathi935&theme=tokyonight_duo&border_radius=6.4"/>
 </p>
 
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=paritoshtripathi935&theme=github-compact"/>
+</p>
+
+# Wakatime Stats
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=react-dark"/>
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -42,5 +43,3 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
