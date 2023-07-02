@@ -20,6 +20,10 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>
     <img src="https://streak-stats.demolab.com?user=ParitoshTripathi935&theme=tokyonight_duo&border_radius=6.4"/>
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paritoshtripathi935&theme=react-dark"/>
 </p>
