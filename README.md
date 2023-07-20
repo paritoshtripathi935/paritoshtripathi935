@@ -27,6 +27,13 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>
 # Wakatime Stats
 <!--START_SECTION:waka-->
 
+```txt
+Python       20 hrs 37 mins  ███████████████████▓░░░░░   78.15 %
+CSV          1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+JavaScript   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Text         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Other        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+```
 
 <!--END_SECTION:waka-->
 
