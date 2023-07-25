@@ -38,8 +38,8 @@ Docker       34 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 # Stateful Stats
-[![status](https://badge.stateful.com/paritoshtripathi935/status.svg)]
-[![status](https://badge.stateful.com/paritoshtripathi935/dnd.svg)]
+![status](https://badge.stateful.com/paritoshtripathi935/status.svg) \n
+![status](https://badge.stateful.com/paritoshtripathi935/dnd.svg)
 
 
 ## 🏆 GitHub Trophies
