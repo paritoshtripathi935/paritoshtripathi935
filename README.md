@@ -40,6 +40,12 @@ CSV          33 mins         ▒░░░░░░░░░░░░░░░░
 # Stateful Stats
 ![status](https://badge.stateful.com/paritoshtripathi935/status.svg) <br> ![status](https://badge.stateful.com/paritoshtripathi935/dnd.svg)
 
+# Quine Stats
+[![paritoshtripathi935's GitHub | Stats](https://stats.quine.sh/paritoshtripathi935/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935) [![paritoshtripathi935's Stack Overflow | Stats](https://stats.quine.sh/paritoshtripathi935/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935)
+
+[![paritoshtripathi935's GitHub | Languages Over Time](https://stats.quine.sh/paritoshtripathi935/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935)
+
+[![paritoshtripathi935's GitHub | Topics Over Time](https://stats.quine.sh/paritoshtripathi935/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&theme=radical&no-frame=false&no-bg=true&margin-w=4)
