@@ -28,11 +28,11 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Python           9 hrs 36 mins   ████████████▒░░░░░░░░░░░░   49.77 %
-Other            3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Text             2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-JavaScript       1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-JSON             1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Python           9 hrs 20 mins   ████████████▒░░░░░░░░░░░░   48.67 %
+Other            3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Text             2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+JavaScript       1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+JSON             1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
