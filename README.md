@@ -28,10 +28,10 @@ Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 59 mins   █████████████▒░░░░░░░░░░░   53.36 %
-Other        3 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   39.11 %
-Text         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-CSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Python       5 hrs 3 mins    █████████████▒░░░░░░░░░░░   53.75 %
+Other        3 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.79 %
+Text         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+CSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
