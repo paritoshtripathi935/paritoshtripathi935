@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>🔭 I’m currently working on Trade Tonic<br>👯 I’m looking to collaborate on Product Matching<br>🌱 I’m currently learning Data Science<br>💬 Ask me about AWS, Python, Data Science
 
@@ -48,14 +50,4 @@ YAML         18 mins         ▒░░░░░░░░░░░░░░░░
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=kanhiya_0w0)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=paritoshtripathi935&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
