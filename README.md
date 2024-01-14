@@ -39,8 +39,6 @@ YAML         21 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# Stateful Stats
-![status](https://badge.stateful.com/paritoshtripathi935/status.svg) <br> ![status](https://badge.stateful.com/paritoshtripathi935/dnd.svg)
 
 # Quine Stats
 [![paritoshtripathi935's GitHub | Stats](https://stats.quine.sh/paritoshtripathi935/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935) [![paritoshtripathi935's Stack Overflow | Stats](https://stats.quine.sh/paritoshtripathi935/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935)
