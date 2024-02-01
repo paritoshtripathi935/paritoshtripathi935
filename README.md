@@ -1,9 +1,5 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Whatsup%2C+I'm+Paritosh!+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
-Hi I am Paritosh Tripathi. I'm a Aspiring Data Scientist, Software Engineer.<br>🔭 I’m currently working on Trade Tonic<br>👯 I’m looking to collaborate on Product Matching<br>🌱 I’m currently learning Data Science<br>💬 Ask me about AWS, Python, Data Science
-
+[![VistorCount](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 <p align="left">
