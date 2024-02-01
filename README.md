@@ -1,6 +1,5 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Whatsup%2C+I'm+Paritosh!+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![VistorCount](https://visitcount.itsvg.in/api?id=paritoshtripathi935&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=paritoshtripathi935&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/kanhiya_0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanhiya_0w0" height="30" width="40" /></a>
