@@ -37,7 +37,9 @@ Text         54 mins         █▒░░░░░░░░░░░░░░░
 
 
 # Stats
-<figure><embed src="https://wakatime.com/share/@Paritosh_Tripathi/09e7ce6d-2c29-4418-90de-69aad67ff24b.svg"></embed></figure>
+<figure>
+  <embed src="https://wakatime.com/share/@Paritosh_Tripathi/09e7ce6d-2c29-4418-90de-69aad67ff24b.svg"></embed>
+</figure>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&theme=radical&no-frame=false&no-bg=true&margin-w=4)
