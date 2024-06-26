@@ -36,8 +36,8 @@ Text         54 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-# Quine Stats
-[![paritoshtripathi935's GitHub | Stats](https://stats.quine.sh/paritoshtripathi935/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935) [![paritoshtripathi935's Stack Overflow | Stats](https://stats.quine.sh/paritoshtripathi935/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paritoshtripathi935)
+# Stats
+<figure><embed src="https://wakatime.com/share/@Paritosh_Tripathi/09e7ce6d-2c29-4418-90de-69aad67ff24b.svg"></embed></figure>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paritoshtripathi935&theme=radical&no-frame=false&no-bg=true&margin-w=4)
