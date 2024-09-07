@@ -8,7 +8,6 @@
 <a href="https://www.hackerrank.com/tripathiparitos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tripathiparitos1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tripathiparitosh935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tripathiparitosh935" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/tripathiparitosh935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tripathiparitosh935" height="30" width="40" /></a>
-<a href="https://visitcount.itsvg.in"> <img align="center" src="https://visitcount.itsvg.in/api?id=paritoshtripathi935&label=Profile%20Views&icon=6&pretty=false" alt="tripathiparitosh935" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -24,6 +23,9 @@
 
 # Wakatime Stats
 <a href="https://wakatime.com/@7355d861-b7d5-4a14-b3cd-2a0c4f959643"><img src="https://wakatime.com/badge/user/7355d861-b7d5-4a14-b3cd-2a0c4f959643.svg" alt="Total time coded since Aug 1 2022" /></a>
+
+<a href="https://visitcount.itsvg.in"> <img align="center" src="https://visitcount.itsvg.in/api?id=paritoshtripathi935&label=Profile%20Views&icon=6&pretty=false" alt="tripathiparitosh935" height="40" width="120" /></a>
+
 <!--START_SECTION:waka-->
 
 ```txt
