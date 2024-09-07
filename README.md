@@ -24,7 +24,7 @@
 # Wakatime Stats
 <a href="https://wakatime.com/@7355d861-b7d5-4a14-b3cd-2a0c4f959643"><img src="https://wakatime.com/badge/user/7355d861-b7d5-4a14-b3cd-2a0c4f959643.svg" alt="Total time coded since Aug 1 2022" /></a>
 
-<a href="https://visitcount.itsvg.in"> <img align="center" src="https://visitcount.itsvg.in/api?id=paritoshtripathi935&label=Profile%20Views&icon=6&pretty=false" alt="tripathiparitosh935" height="30" width="200" /></a>
+<a href="https://visitcount.itsvg.in"> <img align="center" src="https://visitcount.itsvg.in/api?id=paritoshtripathi935&label=Profile%20Views&icon=6&pretty=false" alt="tripathiparitosh935" height="20" width="200" /></a>
 
 <!--START_SECTION:waka-->
 
