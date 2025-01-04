@@ -2,7 +2,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Software+Engineer+%7C+ML+Engineer;AWS+%26+Cloud+Architecture;Data+Pipeline+Expert)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-- 🔭 Currently working as **SDE 1 (Founding Team)** at **Anakin**
+- 🔭 Currently working as **Software Engineer** at **Headspin**
 - 🌱 Building large-scale event-driven systems using AWS & Docker
 - 💡 Experienced in data pipeline design and ML model deployment
 - 🎓 BTech CSE with DS Specialization from Bennett University
