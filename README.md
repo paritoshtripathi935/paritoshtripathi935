@@ -7,11 +7,6 @@
 ## 🌟 About Me
 
 I’m a passionate **Software Engineer** at **Parspec**, specializing in building **large-scale event-driven systems** using **AWS** and **Docker**. With a strong foundation in **data pipeline design** and **ML model deployment**, I thrive on solving complex problems and delivering scalable solutions.  
-
-- 🎓 **BTech CSE with DS Specialization** from Bennett University  
-- 🏆 Ranked in **top 100 globally** in AWS DeepRacer Student League  
-- 💡 Always learning and exploring new technologies  
-
 ---
 
 ## 🛠️ Tech Stack
