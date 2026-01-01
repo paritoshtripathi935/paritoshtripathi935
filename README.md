@@ -2,7 +2,8 @@
 
 Software Engineer @ Parspec | Building scalable event-driven systems
 
-🌐 [paritoshdev.netlify.app](https://paritoshdev.netlify.app/)
+🌐 [Portfolio](https://paritoshdev.netlify.app/)
+🌐 [Linktree](https://linktr.ee/pamripose)
 
 ## Connect
 
