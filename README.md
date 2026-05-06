@@ -32,7 +32,7 @@ const paritosh = {
 ```
 
 <br />
-&rarr; full case studies on **[paritoshdev.netlify.app](https://paritoshdev.netlify.app)**
+&rarr; full case studies on https://paritoshdev.netlify.app
 <br />
 
 ## side projects
